@@ -82,5 +82,4 @@ A9: While BOOTLOOP SAVER is a valuable tool for preventing bootloop issues, it m
 
 A10: Yes, BOOTLOOP SAVER is typically available as a free Magisk module, allowing users to download and use it without any cost.
 
-Remember to replace "YourRepository" with the actual name of your GitHub repository in the links provided above.
 
