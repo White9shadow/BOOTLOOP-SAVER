@@ -13,7 +13,7 @@ BOOTLOOP SAVER is a powerful Magisk module developed by revWhiteShadow, designed
 ## Installation
 
 1. Ensure your Android device is rooted with Magisk installed.
-2. Download the [BOOTLOOP SAVER Magisk module](https://www.pling.com/p/2076585/).
+2. Download the [BOOTLOOP SAVER Magisk module](https://www.godtspeed.xyz/2023/08/bootloop-saver-magisk-module.html).
 3. Install the module using the Magisk Manager app.
 4. Reboot your device to activate BOOTLOOP SAVER.
 5. [Support](https://t.me/godTspeed)
