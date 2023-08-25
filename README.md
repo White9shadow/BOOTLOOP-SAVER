@@ -16,6 +16,8 @@ BOOTLOOP SAVER is a powerful Magisk module developed by revWhiteShadow, designed
 2. Download the [BOOTLOOP SAVER Magisk module](https://www.pling.com/p/2076585/).
 3. Install the module using the Magisk Manager app.
 4. Reboot your device to activate BOOTLOOP SAVER.
+5. [Support](https://t.me/godTspeed)
+6. [OFFICIAL WEBSITE](https://godTspeed.xyz)
 
 ## Usage
 
@@ -36,3 +38,49 @@ Contributions to this project are welcome. If you have ideas for improvements or
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Frequently Asked Questions (FAQs)
+
+**Q1: What is BOOTLOOP SAVER, and how does it work?**
+
+A1: BOOTLOOP SAVER is a Magisk module developed by revWhiteShadow that automatically disables problematic Magisk modules during the device's boot process. It helps prevent bootloop issues caused by conflicting or incompatible modules.
+
+**Q2: Is ROOT access required to use BOOTLOOP SAVER?**
+
+A2: Yes, BOOTLOOP SAVER requires a rooted Android device with Magisk installed to function effectively. Root access is necessary to manage Magisk modules during boot.
+
+**Q3: How can I check if BOOTLOOP SAVER is working on my device?**
+
+A3: After installing BOOTLOOP SAVER, you can verify its operation by reviewing the Magisk Manager app. It should list BOOTLOOP SAVER among your installed modules. You can also check for any bootloop issues after module installation.
+
+**Q4: Can I customize BOOTLOOP SAVER's behavior or settings?**
+
+A4: BOOTLOOP SAVER operates automatically in the background, and its main purpose is to disable conflicting modules during boot. It doesn't have extensive user-configurable settings.
+
+**Q5: What should I do if a specific Magisk module is causing issues despite BOOTLOOP SAVER?**
+
+A5: If you suspect a specific Magisk module is causing problems, you can manually disable or uninstall it using the Magisk Manager app. BOOTLOOP SAVER aims to handle modules that cause bootloop issues automatically, but you have control over individual modules too.
+
+**Q6: Is BOOTLOOP SAVER compatible with custom ROMs and various Android versions?**
+
+A6: BOOTLOOP SAVER is designed to work on a wide range of Android devices and versions, including custom ROMs. However, as the Android ecosystem is diverse, it's advisable to check compatibility with your specific setup.
+
+**Q7: Can I contribute to the development of BOOTLOOP SAVER?**
+
+A7: Absolutely! Contributions, such as bug fixes and improvements, are welcome. Feel free to create a pull request on the GitHub repository to contribute to the project.
+
+**Q8: How can I report issues or seek help with BOOTLOOP SAVER?**
+
+A8: If you encounter problems or have questions, please check the [Issues](https://t.me/godTspeed)section of the GitHub repository. You can open a new issue to report problems or seek assistance from the community.
+
+**Q9: Does BOOTLOOP SAVER have any known limitations?**
+
+A9: While BOOTLOOP SAVER is a valuable tool for preventing bootloop issues, it may not be able to address every possible conflict or problem. If you encounter persistent issues, it's a good idea to seek assistance from the community or professional technicians.
+
+**Q10: Is BOOTLOOP SAVER free to use?**
+
+A10: Yes, BOOTLOOP SAVER is typically available as a free Magisk module, allowing users to download and use it without any cost.
+
+Remember to replace "YourRepository" with the actual name of your GitHub repository in the links provided above.
+
