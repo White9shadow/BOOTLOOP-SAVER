@@ -40,7 +40,7 @@ Contributions to this project are welcome. If you have ideas for improvements or
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## Frequently Asked Questions (FAQs)
+# Frequently-Asked-Questions
 
 **Q1: What is BOOTLOOP SAVER, and how does it work?**
 
